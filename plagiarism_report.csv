@@ -1,0 +1,7 @@
+Document 1,Document 2,Similarity (%)
+doc1.txt.txt,doc2.txt.txt,46.78
+doc1.txt.txt,doc3.txt.txt,7.08
+doc1.txt.txt,requirements.txt.txt,0.0
+doc2.txt.txt,doc3.txt.txt,7.08
+doc2.txt.txt,requirements.txt.txt,0.0
+doc3.txt.txt,requirements.txt.txt,0.0
